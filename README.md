@@ -10,9 +10,8 @@ N/A
 
 ## Usage
 
-The Prework Study Guide is used to learn about the many languges used to code the webpage. Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. Also if we open the DevTools console, we can see the JavaScript running.
-
-![alt text](assets/images/screenshot.png)
+In this activity I learned about body structure and ways to eliminate repetition. In the webpage you will find that you are browsing a webpage called Horiseon that talks about search engine optimaization, online reputation management, and social media marketing. 
+![alt text]()
 
 ## Credits
 
